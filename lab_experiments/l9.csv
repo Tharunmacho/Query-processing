@@ -1,0 +1,11 @@
+Region,Manager,Salesman,Item,SaleAmount
+North,Raj,Amit,Laptop,50000
+North,Raj,John,Mouse,2000
+South,Kumar,Ravi,Keyboard,3000
+South,Kumar,Arun,Laptop,45000
+East,Anil,Ram,Monitor,12000
+East,Anil,Sita,Mouse,1800
+West,Vijay,Karan,Laptop,55000
+West,Vijay,Riya,Keyboard,3500
+North,Raj,Amit,Monitor,10000
+South,Kumar,Ravi,Mouse,1500
